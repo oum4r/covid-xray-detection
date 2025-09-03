@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.fig
+*.mlx
+
+# Logs & Results
+results/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
