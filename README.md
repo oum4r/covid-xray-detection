@@ -31,7 +31,7 @@ This project achieved **95% test accuracy**, demonstrating the potential of AI-d
 
 ## 📂 Repository Structure
 ```
-COVID19-XRay-Detection-System/
+covid-xray-detection/
 │── src/ # MATLAB source code
 │── data/ # Dataset placeholder
 │── results/ # Experimental results
@@ -57,8 +57,8 @@ Install it from MATLAB Add-On Explorer before running.
 ## 🚀 Usage
 **1) Clone the repository**
 ```bash
-git clone https://github.com/yourusername/COVID19-XRay-Detection-System.git
-cd COVID19-XRay-Detection-System
+git clone https://github.com/oum4r/covid-xray-detection.git
+cd covid-xray-detection
 ```
 
 **2) Place the dataset**
