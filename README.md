@@ -1,4 +1,4 @@
-# COVID-19 X-Ray Detection System 🩻🤖
+#  COVID-19 Detection from Chest X-Ray Images 🩻🤖
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2024b-orange?logo=mathworks)](https://www.mathworks.com/products/matlab.html)
 [![Deep Learning Toolbox](https://img.shields.io/badge/Toolbox-Deep%20Learning-blue)](https://www.mathworks.com/products/deep-learning.html)
