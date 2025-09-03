@@ -1,6 +1,6 @@
 # COVID-19 X-Ray Detection System 🩻🤖
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2023a-orange?logo=mathworks)](https://www.mathworks.com/products/matlab.html)
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2024b-orange?logo=mathworks)](https://www.mathworks.com/products/matlab.html)
 [![Deep Learning Toolbox](https://img.shields.io/badge/Toolbox-Deep%20Learning-blue)](https://www.mathworks.com/products/deep-learning.html)
 [![Accuracy](https://img.shields.io/badge/Accuracy-95%25-success)](#-results)
 
@@ -46,7 +46,7 @@ COVID19-XRay-Detection-System/
 ## ⚙️ Installation
 
 ### Requirements
-- MATLAB **R2023a** (or later)
+- MATLAB **R2024b** (or later)
 - Deep Learning Toolbox
 - Image Processing Toolbox
 - Signal Processing Toolbox
